@@ -2,6 +2,8 @@
 
 A small full-stack contact manager built for the AVB technical assessment. It follows the supplied Figma layout and supports listing, viewing, adding, editing, searching, favoriting, exporting, deleting, and restoring contacts. Each contact can have optional company, phone, and birthday information along with any number of email addresses.
 
+**Live app:** https://web-production-7fc54.up.railway.app/
+
 ## Stack
 
 - Vanilla HTML, CSS, and JavaScript
