@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+instance/
+.env
+.DS_Store
+.vscode/
+.idea/
+INTERVIEW_GUIDE.md
+*.zip
